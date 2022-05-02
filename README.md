@@ -6,3 +6,7 @@ Machine Learning Project implemented using Python to apply model selection &amp;
 ## K-Nearest Neighbors
 
 ## Logistic Regression Gradient Descent
+
+
+## Dataset
+citrus dataset from https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit
